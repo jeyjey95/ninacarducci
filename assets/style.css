@@ -282,6 +282,19 @@ body {
 	z-index: 1;
 }
 
+.coordonnees {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-content: center;
+	align-items: flex-start;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	position: relative; 
+	background-color: #F6F0EA; 
+	color:#9429E7"
+}
+
 #contact {
 	margin: auto;
 	background-color: #D8D3A8;
